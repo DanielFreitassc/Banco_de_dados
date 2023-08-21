@@ -35,4 +35,4 @@ DELETE FROM pedidos WHERE data < '2023-01-01';
 ```
 
 Lembrando que a sintaxe pode variar dependendo do banco de dados que você está usando. 📊🔍
-```
+
