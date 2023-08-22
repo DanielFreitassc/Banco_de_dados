@@ -16,3 +16,6 @@
  Vimos Modelo Entidade Relacionado - DER  Em seguida construimos um modelo nosso no site [BR Modelo Web](https://www.brmodeloweb.com/lang/pt-br/index.html)
 
 ![Exemplo](https://github.com/DanielFreitassc/Banco_de_dados/assets/129224303/64556b0c-078e-44ed-a8d9-442f1989ce84)
+
+Em seguida vimos Modelo Lógico.
+![modelo](https://github.com/DanielFreitassc/Banco_de_dados/assets/129224303/a99cf7af-fc3e-46d8-82f3-1e7613925a54)
