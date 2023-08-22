@@ -12,27 +12,7 @@
 - Sem Garantia Transacional
 - Not Only SQL (Não Somente SQL)
 
-# Sintaxy SQL:
+# Na Aula do dia 21.
+ Vimos Modelo Entidade Relacionado - DER  Em seguida construimos um modelo nosso no site [BR Modelo Web](https://www.brmodeloweb.com/lang/pt-br/index.html)
 
-### SELECT - Recuperando Dados
-```sql
-SELECT nome, idade FROM usuarios WHERE cidade = 'São Paulo';
-```
-
-### UPDATE - Atualizando Dados
-```sql
-UPDATE produtos SET preco = preco * 0.9 WHERE categoria = 'Eletrônicos';
-```
-
-### INSERT INTO - Inserindo Dados
-```sql
-INSERT INTO clientes (nome, email) VALUES ('Maria Silva', 'maria@example.com');
-```
-
-### DELETE - Excluindo Dados
-```sql
-DELETE FROM pedidos WHERE data < '2023-01-01';
-```
-
-Lembrando que a sintaxe pode variar dependendo do banco de dados que você está usando. 📊🔍
-
+![Exemplo](https://github.com/DanielFreitassc/Banco_de_dados/assets/129224303/64556b0c-078e-44ed-a8d9-442f1989ce84)
