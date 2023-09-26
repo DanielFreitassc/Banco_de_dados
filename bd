@@ -1,0 +1,31 @@
+'''
+CREATE TABLE aluno (
+cd_aluno int primary key not null,
+nm_aluno varchar(100) null,
+email varchar(100) null,
+)
+CREATE TABLE avaliacao_aluno(
+cd_avaliacao int primary key not null,
+cd_aluno int null,
+ds_avalicao_aluno varchar(100) null,
+dt_inicio datetime null, 
+dt_fim datetime null,
+
+CONSTRAINT avalicao_aluno(cd_avaliacao,cd_aluno),
+CONSTRAINT avalicao_aluno FOREIGN KEY(cd_avaliacao) REFERENCES(resposta_fechada,resposta_aberta),
+
+CREATE TABLE resposta_aberta (
+cd_avalicao int primary key not null,
+cd_aluno int pk.fk1 not null,
+cd_questao int pk.fk2 not null, 
+ds_resposta_aberta varchar(max) null,
+dt_resposta datetime
+
+)
+CREATE TABLE resposta_fechada(
+cd_avaliacao int pk.fk1 not null,
+cd_aluno int pk.fk1 not null,
+cd_questao_item int pk.fk2 not null,
+dt_resposta datetime null,	
+)
+'''
