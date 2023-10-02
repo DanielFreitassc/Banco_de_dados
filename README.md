@@ -21,17 +21,11 @@ Em seguida vimos Modelo Lógico.
 ![modelo](https://github.com/DanielFreitassc/Banco_de_dados/assets/129224303/a99cf7af-fc3e-46d8-82f3-1e7613925a54)
 
 # Criação de um banco de dados azure.
-```
-https://learn.microsoft.com/pt-br/training/modules/build-serverless-api-with-functions-api-management/5-exercise-import-additional-functions-existing-api-gateway
-```
-- Acesse o link acima.
+- Acesse o link [AQUI](https://learn.microsoft.com/pt-br/training/modules/build-serverless-api-with-functions-api-management/5-exercise-import-additional-functions-existing-api-gateway)
 - Clique em Ativar área restrita.
 - Examinar permissões
 - Aceitar
-- Acesse o link a baixo.
-```
-https://portal.azure.com/#home 
-````
+- Acesse o link [AQUI](https://portal.azure.com/#home)
 - Clique no seu nome.
 - Mude o diretório(Microsoft Learn SandBox)
 - Pesquise [por SQL DO AZURE](https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Sql%2Fazuresql)
