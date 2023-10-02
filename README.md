@@ -20,13 +20,40 @@
 Em seguida vimos Modelo Lógico.
 ![modelo](https://github.com/DanielFreitassc/Banco_de_dados/assets/129224303/a99cf7af-fc3e-46d8-82f3-1e7613925a54)
 
-# Links:
-```
-https://learn.microsoft.com/pt-br/training/modules/build-serverless-api-with-functions-api-management/5-exercise-import-additional-functions-existing-api-gateway 
-````
+# Criação de um banco de dados azure.
 ```
 https://learn.microsoft.com/pt-br/training/modules/build-serverless-api-with-functions-api-management/5-exercise-import-additional-functions-existing-api-gateway
 ```
+- Acesse o link acima.
+- Clique em Ativar área restrita.
+- Examinar permissões
+- Aceitar
+- Acesse o link a baixo.
+```
+https://portal.azure.com/#home 
+````
+- Clique no seu nome.
+- Mude o diretório(Microsoft Learn SandBox)
+- Pesquise [por SQL DO AZURE](https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Sql%2Fazuresql)
+- Clique em criar
+- Banco de dados individual e criar.
+- Grupo de Recursos learn-e660a5a0-a67c-40b8-9a9f-25f61e6fa188
+- Nome do banco de dados: Nome de sua preferência
+- Ambiente de carga de trabalho: Produção
+- Servior.
+- Clique em criar embaixo de servidor
+- Nome do Servidor: Nome unico que não pode se repetir.
+- Localização: Brazil
+- Método de autenticação: Usar autenticação SQL
+- senha: senha1234
+- Revisar e criar
+- Computação armazenamento: Configurar banco de dados
+- Sem servidor
+- Desativar Atraso de pausa automática
+- Redundância do armaenamento de backup: Armazenamento de backup com redundância local
+- Revisar + Criar
+- Vá para [SQL DO AZURE](https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Sql%2Fazuresql)
+- Nome do servidor estar em SERVER-SQL
 ```
 /*==============================================================*/
 /* DBMS name:      Microsoft SQL Server 2008                    */
