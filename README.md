@@ -53,7 +53,12 @@ https://portal.azure.com/#home
 - Redundância do armaenamento de backup: Armazenamento de backup com redundância local
 - Revisar + Criar
 - Vá para [SQL DO AZURE](https://portal.azure.com/#view/HubsExtension/BrowseResource/resourceType/Microsoft.Sql%2Fazuresql)
-- Nome do servidor estar em SERVER-SQL
+- Nome do servidor deve estar em SERVER-SQL
+- Agora libera [FireWall](https://portal.azure.com/#@learn.docs.microsoft.com/resource/subscriptions/155cbeab-3d1b-425f-bc74-00626dabdb12/resourceGroups/learn-d7bdbf91-2d2f-4bd4-88c2-709b8fcec0d8/providers/Microsoft.Sql/servers/dan-server-sql/networking)
+
+
+
+
 ```
 /*==============================================================*/
 /* DBMS name:      Microsoft SQL Server 2008                    */
