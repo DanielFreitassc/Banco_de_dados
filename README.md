@@ -422,3 +422,9 @@ alter table resposta_fechada
 go
 
 ```
+# SELECT 
+```
+SELECT _PLACA_MODELO_COR
+FROM __CARRO
+WHERE MARCA = "fiat" AND ano = 2022
+```
